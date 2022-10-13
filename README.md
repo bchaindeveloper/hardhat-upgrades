@@ -4,8 +4,8 @@
 2. Proxy    Box
             -> BoxV2
 1. Deploy a Proxy manually
-2. hardhat-deploy's built-in proxies <-
-3. Openzepplin upgrades plugin
+2. Hardhat-deploy's built-in proxies 
+3. OpenZepplin upgrades plugin
 
 ## Types of Upgrades
 - Parameter

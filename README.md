@@ -1,26 +1,26 @@
 # Hardhat Upgrades
 
 ## Types of Upgrades
-Parameter
-Social Migrate
-Proxy
-Proxy Gotchas
-Function Collisions
-Storage Collisions
-Metamorphic Upgrades
-Transparent
-UUPS
-Diamond
+- Parameter
+- Social Migrate
+- Proxy
+- Proxy Gotchas
+- Function Collisions
+- Storage Collisions
+- Metamorphic Upgrades
+- Transparent
+- UUPS
+- Diamond
 
 ## Delegatecall
-delegatecall (solidity-by-example)
-Yul
+- delegatecall (solidity-by-example)
+- Yul
 
 ## Small Proxy Example
-EIP 1967
+- EIP 1967
 
 ## Transparent Upgradable Smart Contract
-Hardhat-deploy Proxies
-Openzeppelin Upgrades Plugin
-Openzeppelin upgrades tutorial
-hardhat deploy upgrades examples
+- Hardhat-deploy Proxies
+- Openzeppelin Upgrades Plugin
+- Openzeppelin upgrades tutorial
+- hardhat deploy upgrades examples

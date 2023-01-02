@@ -1,5 +1,7 @@
 # Hardhat Upgrades
 
+![Screenshot](Screenshot.png)
+
 1. Upgrade Box -> BoxV2
 2. Proxy    Box
             -> BoxV2
